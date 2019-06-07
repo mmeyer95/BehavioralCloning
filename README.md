@@ -27,5 +27,5 @@ I based the structure of my CNN on the [NVIDIA model](https://devblogs.nvidia.co
 
 I also incorporated dropout into my model, to prevent over-fitting. My final loss on the validation data set (0.2 or 20% split from training data) was 1.27%, but most importantly, the simulation was able to drive on its own!
 
-[watch the Video](https://www.youtube.com/embed/k46y8LXDKw8)
+[Watch the video](https://www.youtube.com/embed/k46y8LXDKw8)
 
